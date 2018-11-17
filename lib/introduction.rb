@@ -1,5 +1,4 @@
-# lib/introduction.rb
+#introduction_with_language
  
-def introduction(name)
-  puts"hi my name is #{name}
+def introduction(name)(language)
 end
